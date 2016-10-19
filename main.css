@@ -38,7 +38,12 @@ nav ul li a {display: block; text-decoration: none; width: 325px; line-height: 2
 
 nav ul li a:hover {background-color: rgba(1,122,205,0.3)}
 
-/* container */
+/* div slide */
+div#slide {clear: both; width: 980px; margin-left: auto; margin-right: auto;}
+
+
+
+/* div container */
 div#contents	{width: 980px;
 	margin-left: auto;
 	margin-right: auto;
